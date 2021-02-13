@@ -1,0 +1,8 @@
+https://www.hackthissite.org/ False
+https://bks-ks.org/ False
+http://testphp.vulnweb.com/artists.php?artist=1 True
+http://maral-mt.ru/maintextile.php?cat=1 True
+http://www.everyway-medical.com/products.php?id=[t] True
+http://www.webscantest.com/datastore/search_get_by_id.php?id=3 True
+http://www.webscantest.com/datastore/search_get_by_name.php?name=Rake%27 True
+http://testphp.vulnweb.com/listproducts.php?cat=1 True
