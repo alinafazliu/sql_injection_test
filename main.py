@@ -43,9 +43,3 @@ tk.Button(master,fg="#489af6",bg="#001f3f", font=(None, 13), text ="Check",comma
 
 
 master.mainloop()
-
-
-#todo
-# 1. Find test websites with sql injection (4-5) | 1h
-# 2. Make an automated testing script (tkinter) | 2h
-# 3. fix repo and readme  | 20 min
